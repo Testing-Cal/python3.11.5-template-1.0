@@ -1,4 +1,4 @@
-# python3.11.5-template-1.0
+# python3.12-template-1.0
 
 ## Project setup
 ```
