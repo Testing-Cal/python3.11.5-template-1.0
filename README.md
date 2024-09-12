@@ -1,11 +1,2 @@
-# python3.11.5-template-1.0
-
-## Project setup
-```
-pip3 install -r requirements.txt
-```
-
-### Project run
-```
-python3 ./main.py
-```
+# Python-3.11.5
+The files in this sample template are provided for guidance purposes only. They should be customized and adapted to meet the specific requirements of your application.
